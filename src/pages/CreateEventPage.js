@@ -1,12 +1,9 @@
 import React from "react";
 import { CreateEvent } from "../components/CreateEvent/CreateEvent";
-import { Header } from "../components/Header";
 
 const CreateEventPage = () => {
   return (
-      <div>
-          <Header/>
-
+    <div>
       <CreateEvent />
     </div>
   );

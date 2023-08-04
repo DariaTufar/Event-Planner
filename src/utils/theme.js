@@ -14,9 +14,11 @@ export const theme = {
   fontSize: {
     14: "14px",
     16: "16px",
+    24: "24px",
     32: "32px",
   },
   font: {
-    primary: "poppins",
+    primary: "poppins, sans-serif",
+    h1: "Alata, sans-serif",
   },
 };
